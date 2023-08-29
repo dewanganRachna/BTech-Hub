@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762560964198",
+    "project_id": "fir-project-57c57",
+    "storage_bucket": "fir-project-57c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762560964198:android:978458f52c749bac542fa7",
+        "android_client_info": {
+          "package_name": "com.mini.btechhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762560964198-lfmc3jnf5bs9ui6arv1k2rkj3r2vq2es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5v5fsGIoqXRffgqJq-XEpSQPy6IMVYVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762560964198-lfmc3jnf5bs9ui6arv1k2rkj3r2vq2es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
